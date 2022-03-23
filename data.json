@@ -1,0 +1,73 @@
+[
+  {
+    "biographie": {
+      "name": "RANDRIANARISON",
+      "firstname": "Bienvenu",
+      "title": "Ingénieur Analyste et développeur Full-Stack PHP/Symfony & Angular",
+      "description": "Personne à l’esprit analytique, dont les succès antérieurs ont contribué à la conception des solutions sur mesure et personnalisées, fiables, performantes à la gestion des tâches de divers organismes gouvernementaux et sociétés privées",
+      "street": "Lot II G 23 FJ",
+      "city": "Antananarivo",
+      "country": "MADAGASCAR",
+      "email": "bien.randrianarison@gmail.com"
+    }
+  },
+  {
+    "formations": [
+      {
+        "year": 2018,
+        "grade": "Master Professionnel en Génie logiciel et gestion des bases de données",
+        "school": "Ecole National d'Informatique",
+        "lieu": "Fianarantsoa"
+      },
+      {
+        "year": 2016,
+        "grade": "Licence professionnelle en génie logiciel et gestion des bases de données",
+        "school": "Ecole National d'Informatique",
+        "lieu": "Fianarantsoa"
+      },
+      {
+        "year": 2013,
+        "grade": "Baccalauréat scientifique (série C mention Assez Bien)",
+        "school": "Lycée Movilli",
+        "lieu": "Manakara"
+      }
+    ],
+    "languages": [
+      { "language": "Malagasy", "level": "maternelle" },
+      { "language": "Français", "level": "Courant" },
+      { "language": "Anglais", "level": "Technique" }
+    ]
+  },
+  {
+    "competances": {
+      "principales": [
+        {
+          "title": "Compétances clès",
+          "items": ["Analyse", "Conception", "Développement"]
+        },
+        {
+          "title": "Développement",
+          "items": [
+            "Développement PHP(Symfony,Doctrine ORM)",
+            "Développement Front-End (Angular,Javascript ES6, HTML)",
+            "Tierce maintenance corrective et/ou évolutive applicative (TMA)"
+          ]
+        },
+        {
+          "title": "Analyse et conception",
+          "items": [
+            "Pratique de l'agilité : SCRUM, eXtreme Programming.",
+            "Veille à la qualité du produit et au respect des bonnes pratiques.",
+            "Réaliser l'analyse technique et l’étude détaillée",
+            "Étudier les opportunités et la faisabilité technologique de l’application",
+            "Analyser et développer les composants en utilisant les langages appropriés"
+          ]
+        }
+      ],
+      "techniques": [
+        { "title": "IDE", "items": ["Visual Studio Code", "PHP Storm"] },
+        { "title": "Langages", "items": ["PHP",""] }
+      ]
+    }
+  }
+]
