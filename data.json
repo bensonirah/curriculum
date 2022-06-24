@@ -151,6 +151,176 @@
             "serveur": "Apache"
           }
         ]
+      },
+      {
+        "project": "Gutenberg Agency",
+        "client": "Gutenberg Agency Paris",
+        "description": "Une plateforme de communication et de production de contenu cross-media",
+        "date_end": "",
+        "date_begin": "",
+        "entreprise": "e-Tech consulting",
+        "pays": "Madagascar",
+        "tasks": [
+          "Développeur PHP/Javascript (équipe de 5 personnes)",
+          "Maintenance du site",
+          "Mise à jour de version PHP",
+          "Migration base de données",
+          "Import et export des données",
+          "Déploiement automatique avec Jenkins",
+          "Module traitement des fichiers",
+          "Sécurisation de l’accès au fichiers du site"
+        ],
+        "environnement technique": [
+          { "os": "Linux" },
+          { "ide": "PHPStorm" },
+          { "sgbd": "MySQL" },
+          {
+            "languages": ["PHP", "JavaScript", "HTML5", "CSS3"]
+          },
+          {
+            "outils collaboratifs": ["Jenkins", "Skype", "Jira"]
+          },
+          { "versionning": "SVN" },
+          {
+            "serveur": "Apache"
+          }
+        ]
+      },
+      {
+        "project": "Transpar’ensemble",
+        "client": "Transpar’ensemble (Paris)",
+        "description": "Une application web et mobile destinée pour les partages des dons de l’association musulman",
+        "date_end": "",
+        "date_begin": "",
+        "entreprise": "e-Tech consulting",
+        "pays": "Madagascar",
+        "tasks": [
+          "Développeur Symfony/Javascript et React Native (équipe de 4 personnes).",
+          "Maintenance du site web",
+          "Intégration de l’API stripe",
+          "Intégration d’un système authentification google,facebook",
+          "Déploiement automatique avec Jenkins"
+        ],
+        "environnement technique": [
+          { "os": "Linux" },
+          { "ide": "PHPStorm" },
+          { "sgbd": "MySQL" },
+          {
+            "languages": ["PHP", "JavaScript", "HTML5", "CSS3"]
+          },
+          {
+            "outils collaboratifs": ["Jenkins", "Skype", "Jira"]
+          },
+          { "versionning": "SVN" },
+          {
+            "serveur": "Apache"
+          }
+        ]
+      },
+      {
+        "project": "Elan",
+        "client": "Elan (France,Paris)",
+        "description": "Une plateforme web de mise en relation client et avocat pour faciliter le processus de traitement de dossier lié au cadastre (Loi Elan)",
+        "date_end": "",
+        "date_begin": "",
+        "entreprise": "e-Tech consulting",
+        "pays": "Madagascar",
+        "tasks": [
+          "Développeur Symfony/React (équipe de 10 personnes).",
+          "Développement de la l’API REST côté backend",
+          "Module Authentification",
+          "Module gestion utilisateur",
+          "Module webscraping du site cadastre.gouv.fr",
+          "Module google drive",
+          "Deploiement automatique avec Jenkins"
+        ],
+        "environnement technique": [
+          { "os": "Linux" },
+          { "ide": ["PHPStorm", "VisualStudio Code"] },
+          { "sgbd": "MySQL" },
+          { "frameworks": "Symfony/React" },
+          {
+            "languages": ["PHP", "JavaScript", "HTML5", "CSS3"]
+          },
+          {
+            "outils collaboratifs": ["Jenkins", "Skype", "Jira"]
+          },
+          { "versionning": "SVN" },
+          {
+            "serveur": "Apache"
+          }
+        ]
+      },
+      {
+        "project": "Unyck",
+        "client": "Unyck (Paris, Île de France)",
+        "description": "Une application web et mobile d’interconnexion des entreprises pour la gestion des projets et de communication",
+        "date_end": "",
+        "date_begin": "",
+        "entreprise": "e-Tech consulting",
+        "pays": "Madagascar",
+        "tasks": [
+          "Développeur Symfony/Angulart (équipe de 10 personnes).",
+          "Analyse des bésoins fonctionnels et techniques",
+          "Chiffrage de projet",
+          "Conception",
+          "Développer les vues avec Angular",
+          "Développement web API de la partie backend avec Symfony",
+          "Module Drive",
+          "Module Gestion de projet",
+          "Module Chat"
+        ],
+        "environnement technique": [
+          { "os": "Linux" },
+          { "ide": ["PHPStorm", "VisualStudio Code"] },
+          { "sgbd": "MySQL" },
+          { "frameworks": "Symfony/Angular" },
+          {
+            "languages": ["PHP", "JavaScript/TypeScript", "HTML5", "CSS3"]
+          },
+          { "cloud": ["Firebase Cloud Messaging", "Google Calendar"] },
+          { "messaging": "Websocket" },
+          {
+            "outils collaboratifs": ["Jenkins", "Skype", "Jira"]
+          },
+          { "versionning": "SVN" },
+          {
+            "serveur": "Apache"
+          }
+        ]
+      },
+      {
+        "project": "Upstride PRO",
+        "client": "Upstride PRO (France)",
+        "description": "Une plateforme B to B de mise en relation client et fournisseur dans le monde équestre",
+        "date_end": "",
+        "date_begin": "",
+        "entreprise": "e-Tech consulting",
+        "pays": "Madagascar",
+        "tasks": [
+          "Développeur Symfony/JavaScript (équipe de 6 personnes).",
+          "Analyser et concevoir les bésoins clients",
+          "Développer les vues avec twig et Javascript",
+          "Développement web API de la partie backend",
+          "Module Réseaux sociaux",
+          "Module gestion utilisateur"
+        ],
+        "environnement technique": [
+          { "os": "Linux" },
+          { "ide": ["PHPStorm"] },
+          { "sgbd": "MySQL" },
+          { "frameworks": "Symfony" },
+          {
+            "languages": ["PHP", "JavaScript", "HTML5", "CSS3"]
+          },
+          {
+            "outils collaboratifs": ["Jenkins", "Skype", "Jira"]
+          },
+          { "versionning": "SVN" },
+          {
+            "serveur": "Apache"
+          }
+        ]
       }
     ]
   }
