@@ -66,8 +66,92 @@
       ],
       "techniques": [
         { "title": "IDE", "items": ["Visual Studio Code", "PHP Storm"] },
-        { "title": "Langages", "items": ["PHP",""] }
+        {
+          "title": "Langages",
+          "items": ["PHP", "JavaScript", "TypeScript", "XHTML/HTML"]
+        },
+        {
+          "title": "System de gestion de base de données",
+          "items": ["MySQL", "PgSQL"]
+        },
+        {
+          "title": "Framework",
+          "items": ["Symfony", "Angular"]
+        },
+        {
+          "title": "Versionning",
+          "items": ["SVN", "Git"]
+        },
+        {
+          "title": "Intégration continue",
+          "items": ["Jenkins"]
+        },
+        {
+          "title": "Outils collaboratifs",
+          "items": ["Skype", "Discord", "Jira"]
+        },
+        {
+          "title": "Systèmes",
+          "items": ["Linux", "Windows"]
+        },
+        {
+          "title": "Réseaux",
+          "items": ["TCP/IP", "FTP/SFTP", "SSH"]
+        },
+        {
+          "title": "Virtualisation",
+          "items": ["Vagrant", "Docker"]
+        }
       ]
     }
+  },
+  {
+    "experiences professionnelles": [
+      {
+        "project": "BFM web",
+        "client": "Banque Centrale de Madagascar",
+        "description": "Intranet de mise en relation des employés",
+        "date_end": "",
+        "date_begin": "",
+        "entreprise": "e-Tech consulting",
+        "pays": "Madagascar",
+        "tasks": [
+          "Développeur Symfony/JavaScript (équipe de 4 personnes).",
+          "Développer les vues en Javascript et Twig",
+          "Développement web API de la partie backend",
+          "Maintenir le site web existant",
+          "Déploiement automatique du site web avec Jenkins",
+          "Module chat websocket",
+          "Module d’appel d’offre",
+          "Module notification"
+        ],
+        "environnement technique": [
+          { "os": "Linux" },
+          { "ide": "PHPStorm" },
+          { "sgbd": "MySQL" },
+          { "framework": "Symfony" },
+          {
+            "languages": [
+              "PHP",
+              "Javascript/ES6",
+              "HTML5",
+              "CSS3",
+              "SCSS",
+              "Twing"
+            ]
+          },
+          {
+            "messaging": ["Websocket", "Firebase Cloud Messaging"]
+          },
+          {
+            "outils collaboratifs": ["Jenkins", "Skype", "Jira"]
+          },
+          { "versionning": "SVN" },
+          {
+            "serveur": "Apache"
+          }
+        ]
+      }
+    ]
   }
 ]
